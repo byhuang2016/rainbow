@@ -5,4 +5,3 @@ yellow
 green
 blue
 purple
-:D
