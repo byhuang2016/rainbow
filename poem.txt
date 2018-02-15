@@ -4,6 +4,6 @@ orange
 yellow
 green
 blue
-purple
+purple should be eh violet
 and the unicron loves rainbow
 and the rainbow loves unicorn
